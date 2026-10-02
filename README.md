@@ -1,85 +1,11 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-10-02T09:49:20.772Z",
-  "profile": {
-    "title": "Wash Air",
-    "subtitle": "A student at FZU",
-    "currentWork": "",
-    "currentLearn": "JAVA and trying to be a normal college student - ✧٩(ˊωˋ*)و✧",
-    "collaborateOn": "",
-    "helpWith": "",
-    "ama": "my first-year experience at FZU. ",
-    "contact": "477667841@qq.com",
-    "funFact": "Visca Barca - (ง •̀ㅂ•́)ง",
-    "visitorsBadge": false,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "",
-    "dev": "",
-    "linkedin": "",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": []
-}
+# Hi 👋, I'm Wash Air
+
+### A student at FZU
+
+- 🌱 I'm currently learning **JAVA and trying to be a normal college student - ✧٩(ˊωˋ*)و✧**
+
+- 💬 Ask me about **my first-year experience at FZU. **
+
+- 📫 How to reach me **477667841@qq.com**
+
+- ⚡ Fun fact **Visca Barca - (ง •̀ㅂ•́)ง**
